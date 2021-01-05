@@ -5,6 +5,7 @@
 
 <div align="center">
   <img height="300" width="600" src="https://media.giphy.com/media/13FBIII8M4IDDi/giphy.gif" alt="peng" />
+  img src="https://img.shields.io/badge/python-306998.svg?&style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 <br />
