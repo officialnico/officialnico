@@ -4,7 +4,7 @@
 []("https://giphy.com/embed/zuZHaMcMHsAQ8")
 
 <div align="center">
-  <img height="300" width="600" src="https://media.giphy.com/media/j0jBHXQ1cULRnXNJy4/giphy.gif" alt="peng" />
+  <img height="300" width="400" src="https://media.giphy.com/media/j0jBHXQ1cULRnXNJy4/giphy.gif" alt="peng" />
 </div>
 
 
