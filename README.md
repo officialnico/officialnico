@@ -1,7 +1,9 @@
-### Hi there 👋
-
 <!--
 **officialnico/officialnico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=officialnico)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+
+  <img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=officialnico&show_icons=true&hide_border=true" />
+  
+<br />
