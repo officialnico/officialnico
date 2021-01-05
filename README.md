@@ -2,7 +2,6 @@
 **officialnico/officialnico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I bust speakers on the weekend and help google tie their shoelaces on monday
 
 <br />
 
