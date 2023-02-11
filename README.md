@@ -4,7 +4,7 @@
 []("https://giphy.com/embed/zuZHaMcMHsAQ8")
 
 <div align="center">
-  <src="https://tasvisuals.com/img/TAS-Visuals-bubbles-web.jpg" alt="peng" />
+  <img height="300" width="800" src="https://tasvisuals.com/img/TAS-Visuals-bubbles-web.jpg" alt="peng" />
 </div>
 
 
